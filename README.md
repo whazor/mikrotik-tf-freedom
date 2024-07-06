@@ -9,7 +9,7 @@ Configure your MikroTik via TerraForm to use Freedom.nl internet
 
 3. Edit [router.tf](./router.tf) and enter your router IP and password.
 
-4. Apply configurtion: `tofu apply` (say yes)
+4. Apply configuration: `tofu apply` (say yes)
 
     Now you will get some errors like:
 
